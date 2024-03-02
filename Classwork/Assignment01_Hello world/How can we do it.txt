@@ -1,0 +1,63 @@
+How to write a basic Hello World Program using Typescript.
+
+Tools you need for this exercise:
+
+Step#1 INSTALLATION OF NODE.JS
+Download Node.js:
+Visit the official Node.js website: https://nodejs.org/en/download
+Click on the “Current” version to download the Windows,macOS,Installer.
+Run the Installer:
+Locate the downloaded Node.js.msi file and double-click it.
+The Node.js Setup wizard will open.
+Welcome Screen:
+Click “Next” to proceed.
+License Agreement:
+Read the End-User License Agreement (EULA).
+Check the box that says “I accept the terms in the License Agreement”.
+Click “Next”.
+Choose Installation Location:
+You can leave the default installation location or choose a different one.
+Click “Next”.
+Select Components:
+By default, all components are selected. Leave them as is.
+Click “Next”.
+Start Menu Folder:
+Choose a name for the Start Menu folder (or keep the default).
+Click “Next”.
+Ready to Install:
+Review your selections.
+Click “Install”.
+Installation Progress:
+Wait for the installation to complete.
+WhenInstallation Complete:
+Click “Finish”.
+
+Step#2 INSTALLATION OF TYPESCRIPT
+
+Open a terminal or command prompt and navigate to your project directory.
+Run the following command to install TypeScript locally:
+npm install -g typescript
+
+PowerShell or Command Prompt.
+In case of powershell below mentioned command must be executed in Administrator mode
+	a. Go to Search and type PowerShell.
+	b. Right click on PowerShell and select Run in Administator Mode
+	c. Execute Set-ExecutionPolicy RemoteSigned
+For this task VSCode is not required. But you can run the same using VSCode as well.
+
+Steps to Perform:
+
+ Open Notepad and type the following statements.
+	console.log("Hello TypeScript");
+ Save the file.
+	a. Enter filename as "HelloTypeScript.ts".
+	b. Save as type, select all files from the dropdown.
+ Open CommandPrompt or PowerShell.
+ Navigate to the folder using CD command.
+ Alternatively you can go to Folder bar and type cmd or powershell and hit enter.
+  You will automatically be navigated to the designated folder in your desired console.
+ Run tsc HelloTypeScript.ts
+ A new file will be created in the same folder as HelloTypeScript.js
+ Run node HelloTS.js
+ The console will show Hello TypeScript in the windows.
+ Your first assignment is completed.
