@@ -1,7 +1,7 @@
-let persoName : string = "Syed Hasan";
+let personName : string = "Syed Hasan";
 
-console.log(persoName.toLowerCase());
+console.log(personName.toLowerCase());
 
-console.log(persoName.toUpperCase());
+console.log(personName.toUpperCase());
 
-console.log(persoName.replace(/\b\w/g, (char) => char.toUpperCase()));
+console.log(personName.replace(/\b\w/g, (char) => char.toUpperCase()));
