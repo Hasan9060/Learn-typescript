@@ -1,0 +1,36 @@
+let Declarations:
+In JavaScript, variables were traditionally declared using let. For example:
+TypeScript
+
+let a = 10;
+AI-generated code. Review and use carefully. More info on FAQ.
+However, var has some quirks, such as function-scoping and the ability to re-declare the same variable within the same scope.
+let Declarations:
+TypeScript introduced let as a more predictable alternative to var.
+let has block-scoping, which means it is only accessible within the block where it is defined.
+Example:
+TypeScript
+
+function f() {
+    let message = "Hello, world!";
+    return message;
+}
+AI-generated code. Review and use carefully. More info on FAQ.
+const Declarations:
+Use const when you want to declare a variable that should not be reassigned.
+Example:
+TypeScript
+
+const pi = 3.14;
+AI-generated code. Review and use carefully. More info on FAQ.
+Global Variables:
+To declare a global variable in TypeScript, you can use the declare global syntax. For instance:
+TypeScript
+
+// foo.ts
+interface IData {
+    test: string;
+}
+declare global {
+    var someVar: IData;
+}
