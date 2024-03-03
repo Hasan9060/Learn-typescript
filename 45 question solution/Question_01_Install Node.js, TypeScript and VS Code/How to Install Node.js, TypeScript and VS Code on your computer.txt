@@ -1,6 +1,6 @@
 installing **Node.js**, **TypeScript**, and **Visual Studio Code (VS Code)** on your computer.
 
-<b>## Installing Node.js:</b>
+## Installing Node.js:
 1. **Node.js** is a JavaScript runtime that allows you to run JavaScript code on the server side. It also includes **npm** (Node Package Manager) for managing packages and dependencies.
 2. To install Node.js, follow these steps:
     - Visit the official Node.js website: [Node.js Downloads](https://nodejs.org/download/).
