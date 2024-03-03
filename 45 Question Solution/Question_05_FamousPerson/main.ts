@@ -1,5 +1,0 @@
-let famousPerson = "Quaid e azam";
-
-let message = "once said,\" Knowledge is more powerful than the sword, so spread knowledge in your country. No one can defeat you.\""
-
-console.log(famousPerson, message);
