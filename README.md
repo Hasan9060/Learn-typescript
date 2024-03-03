@@ -7,7 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasan9060&label=Profile%20views&color=0e75b6&style=flat" alt="hasan9060" /> </p>
 
-- 🌱 I’m currently learning **Typescript**
+
+- 🌱 I’m currently learning **Typescript on Governor House **
 
 - 📫 How to reach me **imhasanrafay@gmail.com**
 
