@@ -1,7 +1,7 @@
 # GIAIC TypeScript Node JS Assignments Repository
    
 <h1 align="center">Hi 👋, I'm Hasan Rafay</h1>
-<h3 align="center">A passionate Software developer from Pakistan</h3>
+<h3 align="center">Student of Governor house IT Course</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -11,8 +11,9 @@
 - 🌱 I’m currently learning **Typescript on Governor House **
 
 - 📫 How to reach me **imhasanrafay@gmail.com**
+**hasanrafay2006@gmail.com **
 
-- ⚡ Fun fact **Always Active🥱**
+- ⚡ fact **Hardworking 🫠**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
