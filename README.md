@@ -1,4 +1,4 @@
-# GIAIC TypeScript Node JS Assignments Repository
+# GIAIC Certified Cloud Applied Generative AI Engineer (GenEng) Assignments Repository
    
 <h1 align="center">Hi 👋, I'm Hasan Rafay</h1>
 <h3 align="center">Student of Governor house IT Course</h3>
